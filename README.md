@@ -1,4 +1,7 @@
-# resume
+# Vue-Resume
+Simple Resume using Vue.js 2
+
+Change `src/data.js`.
 
 > A Vue.js project
 
