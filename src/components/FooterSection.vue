@@ -4,7 +4,7 @@
     .row
       .twelve.columns
         ul.inline-list
-          li.social-link(v-show="data.google")
+          li.social-link(v-show="data.blog")
             a(v-bind:href="data.blog", target="_blank") Blog
           li.social-link(v-show="data.github")
             a(v-bind:href="githubLink", target="_blank") Github
